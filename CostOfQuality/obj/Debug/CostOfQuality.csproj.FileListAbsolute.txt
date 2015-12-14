@@ -1,0 +1,9 @@
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\bin\Debug\CostOfQuality.exe.config
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\bin\Debug\CostOfQuality.exe
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\bin\Debug\CostOfQuality.pdb
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.csprojResolveAssemblyReference.cache
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.Properties.Resources.resources
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.csproj.GenerateResource.Cache
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.exe
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.pdb
+c:\users\dleiva\documents\visual studio 2013\Projects\CostOfQuality\CostOfQuality\obj\Debug\CostOfQuality.CostOfQualityForm.resources
